@@ -25,3 +25,12 @@
 ## 💭 Quote
 
 > "The best way to predict the future is to invent it." - Alan Kay
+
+## 📌 Pinned Repositories
+
+<a href="https://github.com/JonathonJulian/web3-message-board">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathonJulian&repo=web3-message-board&theme=radical" />
+</a>
+<a href="https://github.com/JonathonJulian/resume">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathonJulian&repo=resume&theme=radical" />
+</a>

@@ -7,10 +7,6 @@
 - 📫 How to reach me: j@jonathonfritz.com
 - 🚀 Working with Web3 and modern web technologies
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathonJulian&show_icons=true&theme=radical)
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)

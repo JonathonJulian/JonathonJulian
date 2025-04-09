@@ -21,3 +21,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://jonathonfritz.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://resume.jonathonfritz.com/)
+
+## 💭 Quote
+
+> "The best way to predict the future is to invent it." - Alan Kay

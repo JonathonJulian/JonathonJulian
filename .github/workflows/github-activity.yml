@@ -1,0 +1,13 @@
+name: GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Activity Graph
+    steps:
+      - uses: actions/checkout@v2
